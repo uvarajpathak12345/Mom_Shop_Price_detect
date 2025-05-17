@@ -1,0 +1,7 @@
+1.UI/UX ---> design ( prjaesh / uvaraj)
+2.implement ---> (shadcn/ taildwind css / normal css)
+3.authentication ---> (firebasebase -- > {prajesh})
+4.Node --> (web shocket)
+5. text/ video -- > ( prajesh / uvaraj)
+6. location implemantion 
+7. github
